@@ -6,3 +6,7 @@ To add more functions, edit the .jslib file and add a wrapper to the "javascript
 and it will execute the javascript function.
 
 More functions and documentation soon.
+
+
+Powered by TzKT API
+https://tzkt.io/
